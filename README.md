@@ -14,7 +14,7 @@
 
 
 
-![Stars](https://img.shields.io/github/stars/linmohan/english-vocabulary-master.svg)
+![Stars](https://img.shields.io/github/stars/lin-mo-han/english-vocabulary-master.svg)
 
 ## 项目简介
 
