@@ -485,7 +485,7 @@ english-vocabulary-master/
 
 
 
-![Star History Chart](https://api.star-history.com/svg?repos=linmohan/english-vocabulary-master\&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=Mohan-Lin/english-vocabulary-master\&type=Date)
 
 
 
