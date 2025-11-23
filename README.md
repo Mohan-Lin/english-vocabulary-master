@@ -155,7 +155,7 @@
 
 
 ```
-git clone https://github.com/Mohan-Lin/english-vocabulary-master.git
+git clone https://github.com/lin-mo-han/english-vocabulary-master.git
 
 cd english-vocabulary-master
 ```
@@ -454,9 +454,9 @@ english-vocabulary-master/
 
 
 
-* **项目主页**：[https://github.com/Mohan-Lin/english-vocabulary-master](https://github.com/Mohan-Lin/english-vocabulary-master)
+* **项目主页**：[https://github.com/lin-mo-han/english-vocabulary-master](https://github.com/lin-mo-han/english-vocabulary-master)
 
-* **问题反馈**：[https://github.com/Mohan-Lin/english-vocabulary-master/issues](https://github.com/Mohan-Lin/english-vocabulary-master/issues)
+* **问题反馈**：[https://github.com/lin-mo-han/english-vocabulary-master/issues](https://github.com/lin-mo-han/english-vocabulary-master/issues)
 
 * **个人博客**：[https://www.linmohan.top](https://www.linmohan.top)
 
@@ -485,7 +485,7 @@ english-vocabulary-master/
 
 
 
-![Star History Chart](https://api.star-history.com/svg?repos=Mohan-Lin/english-vocabulary-master\&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=lin-mo-han/english-vocabulary-master\&type=Date)
 
 
 
